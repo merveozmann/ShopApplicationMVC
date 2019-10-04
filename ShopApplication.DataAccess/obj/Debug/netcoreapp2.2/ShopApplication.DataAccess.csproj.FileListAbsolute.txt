@@ -1,0 +1,14 @@
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.DataAccess\bin\Debug\netcoreapp2.2\ShopApplication.Entities.dll
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.DataAccess\obj\Debug\netcoreapp2.2\ShopApplication.DataAccess.csprojAssemblyReference.cache
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.DataAccess\obj\Debug\netcoreapp2.2\ShopApplication.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.DataAccess\obj\Debug\netcoreapp2.2\ShopApplication.DataAccess.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.DataAccess\obj\Debug\netcoreapp2.2\ShopApplication.DataAccess.AssemblyInfo.cs
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.DataAccess\bin\Debug\netcoreapp2.2\ShopApplication.DataAccess.deps.json
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.DataAccess\bin\Debug\netcoreapp2.2\ShopApplication.DataAccess.dll
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.DataAccess\bin\Debug\netcoreapp2.2\ShopApplication.DataAccess.pdb
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.DataAccess\bin\Debug\netcoreapp2.2\ShopApplication.Entities.pdb
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.DataAccess\obj\Debug\netcoreapp2.2\ShopApplication.DataAccess.csproj.CopyComplete
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.DataAccess\obj\Debug\netcoreapp2.2\ShopApplication.DataAccess.dll
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.DataAccess\obj\Debug\netcoreapp2.2\ShopApplication.DataAccess.pdb
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.DataAccess\bin\Debug\netcoreapp2.2\ShopApplication.DataAccess.runtimeconfig.json
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.DataAccess\bin\Debug\netcoreapp2.2\ShopApplication.DataAccess.runtimeconfig.dev.json

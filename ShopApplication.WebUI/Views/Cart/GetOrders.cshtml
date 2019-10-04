@@ -1,0 +1,64 @@
+﻿@model  List<OrderListModel>
+@{
+    ViewData["Title"] = "GetOrders";
+}
+
+<h1>Siparişlerim</h1>
+<hr />
+
+@foreach (var order in Model)
+	{
+		 <table class="table table-bordered table-sm mb-3">
+             <thead class="bg-info text-white" >
+                 <tr>
+                     <th colspan="2">Sipariş No: #@order.OrderId</th>
+                     <th>Fiyat</th>
+                     <th>Adet</th>
+                 </tr>
+
+             </thead>
+             <tbody>
+                 @foreach (var item in order.OrderModels)
+                 {
+                     <tr>
+                         <td style="width:60px">
+                             <img src="~/img/@item.ImageUrl " width="50"  />
+                         </td>
+                         <td>@item.Name</td>
+                         <td>@item.Price</td>
+                         <td>@item.Quantity</td>
+                     </tr>
+                 }
+
+             </tbody>
+             <tfoot>
+                 <tr>
+                     <td colspan="2">Ad-Soyad </td>
+                     <td>@order.FirstName @order.LastName</td>
+                     <td rowspan="3">Fiyat Toplam: @order.TotalPrice()</td>
+                 </tr>
+                 <tr>
+                     <td colspan="2">Adres:</td>
+                     <td>@order.Address</td>
+                 </tr>
+                 <tr>
+                     <td colspan="2">Telefon:</td>
+                     <td>@order.Phone</td>
+                 </tr>
+                 <tr>
+                     <td colspan="2">Email:</td>
+                     <td>@order.Email</td>
+                 </tr>
+                 <tr>
+                     <td colspan="2">Ödeme Durumu:</td>
+                     <td>@order.PaymentTypes</td>
+                 </tr>
+                 <tr>
+                     <td colspan="2">Sipariş Durumu:</td>
+                     <td>@order.OrderState</td>
+                 </tr>
+             </tfoot>
+
+         </table>
+	}
+

@@ -1,0 +1,9 @@
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.Entities\bin\Debug\netcoreapp2.2\ShopApplication.Entities.deps.json
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.Entities\bin\Debug\netcoreapp2.2\ShopApplication.Entities.dll
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.Entities\bin\Debug\netcoreapp2.2\ShopApplication.Entities.pdb
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.Entities\obj\Debug\netcoreapp2.2\ShopApplication.Entities.csprojAssemblyReference.cache
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.Entities\obj\Debug\netcoreapp2.2\ShopApplication.Entities.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.Entities\obj\Debug\netcoreapp2.2\ShopApplication.Entities.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.Entities\obj\Debug\netcoreapp2.2\ShopApplication.Entities.AssemblyInfo.cs
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.Entities\obj\Debug\netcoreapp2.2\ShopApplication.Entities.dll
+C:\Users\merve\Desktop\ShopApplication\ShopApplication.Entities\obj\Debug\netcoreapp2.2\ShopApplication.Entities.pdb
